@@ -6,7 +6,7 @@
   "main": "./lib/user-voice",
   "dependencies": {
     "coffee-script": "1.4.0",
-    "node-oauth":    "0.1.0"
+    "oauth":    "0.9.8"
   },
   "license": "MIT"
 }

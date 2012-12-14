@@ -1,4 +1,3 @@
-fs          = require('fs')
 querystring = require('querystring')
 
 {OAuth}     = require('oauth')

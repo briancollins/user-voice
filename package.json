@@ -1,6 +1,6 @@
 {
   "name": "user-voice",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Brian Collins <brian@stripe.com>",
   "description": "A library for making UserVoice API calls",
   "main": "./lib/user-voice",

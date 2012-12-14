@@ -5,7 +5,6 @@ querystring = require('querystring')
 
 class UserVoice
   constructor: ({@subdomain, @key, @secret}) ->
-    console.log @subdomain
     @url = "https://#{@subdomain}.uservoice.com"
     @oa = new OAuth(
       "#{@url}/oauth/request_token", 
